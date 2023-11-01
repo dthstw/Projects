@@ -1,0 +1,8 @@
+python-dotenv
+google-api-python-client
+requests
+unidecode
+levenshtein
+fuzzywuzzy
+spotipy
+pytest
